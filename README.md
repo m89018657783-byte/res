@@ -1,0 +1,2 @@
+# res
+resurce for server
